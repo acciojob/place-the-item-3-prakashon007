@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	justify-content:space-between
+}
+.sub{
+	width:100px;
+	height:100px;
+	border:1px solid black;
+}
